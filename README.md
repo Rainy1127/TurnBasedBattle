@@ -15,4 +15,4 @@ This is a personal C++ project that represents a battle system of a turn-based R
 ## Status
 
 The repository and CMake template are ready. The program builds and prints a line to the console.
-The battle system is planned for January–February 2027, in the meantime, I'm preparing for it while learning C++.
+The battle system is planned for January–February 2027. In the meantime, I'm preparing for it while learning C++.
